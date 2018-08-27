@@ -1,3 +1,8 @@
 Hola mundo !
 que taldfdfd
 https://www.youtube.com/watch?v=3XlZWpLwvvo
+Probablemente un error tipográfico: configurado user.mailsin e . Solucionarlo estableciendo user.emailen la Configuración Global con
+$  git config --global user.email "jessicatorres_29@hotmail.com"
+Para estar seguro, ejecuta:
+
+$ git config --local -l
